@@ -108,7 +108,9 @@ python "Intern Task 2.py"
 
 # 👨‍💻 Author
 
-Anoosh Mughal
+Qaiser Anoosh Mughal
+
+DevelopersHub Corporation Intern ID:DHC 5426
 
 ---
 
