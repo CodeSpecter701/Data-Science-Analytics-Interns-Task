@@ -219,7 +219,7 @@ Real-world Machine Learning workflows
 
 👨‍💻 Author
 
-Qaiser Anoosh Mughal
+Anoosh Mughal
 
 Aspiring Data Scientist & Machine Learning Enthusiast 🚀
 
